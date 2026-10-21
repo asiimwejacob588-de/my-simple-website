@@ -1,0 +1,48 @@
+style.css
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    background-color: #234e70;
+    color: white;
+    padding: 25px;
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: #38bdf8;
+}
+
+section {
+    background-color: white;
+    margin: 25px auto;
+    padding: 25px;
+    width: 75%;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #234e70;
+}
+
+footer {
+    background-color: #234e70;
+    color: white;
+    padding: 12px;
+}
